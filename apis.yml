@@ -39,7 +39,6 @@ apis:
   - name: Transport for Budapest, Hungary
     description: "Budapest public transport API"
     humanURL: https://bkkfutar.docs.apiary.io
-    baseURL: https://bkkfutar.docs.apiary.io
     tags:
       - Transportation
     properties:
